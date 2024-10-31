@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:wght@300;400;500;700;900&display=swap rel=stylesheet>)
+
+@import url("components/container.css")
+@import url("components/avatar.css")
+@import url("components/button.css")
+
+body {
+	font-family: 'Lora';
+	font-weight:18px ;
+}
+h1, h2, h3 {
+
+font-family: 'Roboto';
+font-weight: bold;
+}
